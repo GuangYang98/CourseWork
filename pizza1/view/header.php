@@ -5,7 +5,7 @@
   to the web server's document root.
 -->
 <!-- CHANGE xxxxx to your own topcat username-->
-<?php $app_path = "/cs637/guangy/pizza1/"; ?>
+<?php $app_path = "/pizza1/"; ?>
 <!DOCTYPE html>
 <html>    
     <head>

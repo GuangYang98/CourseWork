@@ -4,15 +4,15 @@
 // --see database/dev_setup.sql and database/createdb.sql
 // --load your mysql database on topcat with the pizza db
 // Then this code figures out which setup to use at runtime
-if (gethostname() === 'topcat') {
-    $username = 'guangy';  // CHANGE THIS to your cs.umb.edu username
-    $password = 'guangy';  // CHANGE THIS to your mysql DB password on topcat
-    $dsn = 'mysql:host=localhost;dbname='. $username . 'db';
-} else {  // dev machine, can create pizzadb
+//if (gethostname() === 'topcat') {
+//    $username = 'guangy';  // CHANGE THIS to your cs.umb.edu username
+//    $password = 'guangy';  // CHANGE THIS to your mysql DB password on topcat
+//    $dsn = 'mysql:host=localhost;dbname='. $username . 'db';
+//} else {  // dev machine, can create pizzadb
     $dsn = 'mysql:host=localhost;dbname=pizzadb';
-    $username = 'pizza_user';
-    $password = 'pa55word';  // or your choice
-}
+    $username = 'guangy';
+    $password = 'guangy';  // or your choice
+//}
 
 try {
     // specify that DB errors cause exceptions, so we can see
