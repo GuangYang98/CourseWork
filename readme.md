@@ -1,19 +1,15 @@
 # Website For Pizza Shop -- CS637
 
+>**Term:** Fall 2019
 
-**Term:** Fall 2019 
+>**Course:** CS637 - [Database-backed Websites and Web Services](https://www.cs.umb.edu/cs637/)
 
+>**Date:** Fall 2019 Semester (Sep - Dec 2019) 
 
-**Course:** CS637 - [Database-backed Websites and Web Services](https://www.cs.umb.edu/cs637/)
-
-
-**Date:** Fall 2019 Semester (Sep - Dec 2019) 
-
-
-**Language:** HTML CSS JavaScript PHP Mysql
+>**Language:** HTML, CSS, JavaScript, PHP, Mysql
 
 ```diff
-+ Please click the title for demo
++Please click the title for demo
 ```
 
 ## [Pizza1](http://f2314898.ngrok.io/pizza1/)
