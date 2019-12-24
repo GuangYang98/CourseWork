@@ -13,8 +13,7 @@
 **Language:** HTML CSS JavaScript PHP Mysql
 
 
-_Please click the title for demo_
-
+<font color=#0099ff size=16 >Please click the title for demo</font>
 
 ## [Pizza1](http://f2314898.ngrok.io/pizza1/)
 **pizza1 is a base for the pizza shop website, used both manager and clients.**
