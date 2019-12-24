@@ -1,10 +1,25 @@
 # Website For Pizza Shop -- CS637
 
+
+**Term:** Fall 2019 
+
+
+**Course:** CS637 - [Database-backed Websites and Web Services](https://www.cs.umb.edu/cs637/)
+
+
+**Date:** Fall 2019 Semester (Sep - Dec 2019) 
+
+
+**Language:** HTML CSS JavaScript PHP Mysql
+
+
 _Please click the title for demo_
 
 
 ## [Pizza1](http://f2314898.ngrok.io/pizza1/)
 **pizza1 is a base for the pizza shop website, used both manager and clients.**
+
+
 The manager can set time, toppings of pizza, user's information, pizza status.
 The client can order pizza(select topping, username), acknowledge the order, check the statu of pizza.
 
