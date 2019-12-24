@@ -8,6 +8,8 @@
 
 >**Language:** HTML, CSS, JavaScript, PHP, Mysql
 
+>**Backend & Server:** Xilinx PYNQ-Z2 FPGA development board & Ngrok
+
 ```diff
 +Please click the title for demo
 ```
